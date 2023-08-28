@@ -12,10 +12,10 @@ entries:
         url: https://argoproj.github.io/argo-helm/pgp_keys.asc
     apiVersion: v2
     appVersion: v2.8.2
-    created: "2023-08-28T22:53:51.461915665+05:30"
+    created: "2023-08-28T23:01:59.775448144+05:30"
     description: A Helm chart for Argo CD, a declarative, GitOps continuous delivery
       tool for Kubernetes.
-    digest: f23dfb124458aa0cd83f283843fd99302ab76a02bf30ec5cc4eb6159d43f4f3f
+    digest: f25ebc5e274abc4a20245cf6027ad0ef7fe87e067015296344c3e87aac32b00c
     home: https://github.com/argoproj/argo-helm
     icon: https://argo-cd.readthedocs.io/en/stable/assets/logo.png
     keywords:
@@ -33,4 +33,4 @@ entries:
     urls:
     - argo-cd-5.45.0.tgz
     version: 5.45.0
-generated: "2023-08-28T22:53:51.433328171+05:30"
+generated: "2023-08-28T23:01:59.747348038+05:30"
